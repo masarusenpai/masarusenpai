@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, world!
+
+Adding more stuff here as I go on. Stay tuned. 😉
 
 <!--
 **masarusenpai/masarusenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
